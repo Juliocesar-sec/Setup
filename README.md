@@ -134,4 +134,3 @@ This repository details the architecture and implementation of my network and cy
 
 ---
 
-<p align="center">Made with ❤️ by [Your Name/GitHub Username]</p>
